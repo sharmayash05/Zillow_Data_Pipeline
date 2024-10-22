@@ -1,4 +1,4 @@
-# Zillow RapidAPI Data Analytics Project Overview
+# Zillow RapidAPI Data Engineering Project
 
 ## Summary
 The Zillow RapidAPI Data Analytics project integrates AWS services with Zillow’s API to automate the ingestion, processing, storage, and visualization of property data.
